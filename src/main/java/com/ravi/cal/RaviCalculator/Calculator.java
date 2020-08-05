@@ -39,8 +39,8 @@ public class Calculator  {
 	}
 
 
-	 public static void main(String[] args) {
-
+	 public static void main( String[] args ) 
+	 {	 
 
                 Calculator cc = new Calculator();
 
@@ -66,8 +66,6 @@ public class Calculator  {
 
 
 	 }
-
-
 
 }
 
