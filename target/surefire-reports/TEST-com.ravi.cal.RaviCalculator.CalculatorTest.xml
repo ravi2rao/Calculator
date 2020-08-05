@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<<<<<<< Updated upstream
 <testsuite tests="3" failures="0" name="com.ravi.cal.RaviCalculator.CalculatorTest" time="0.015" errors="0" skipped="0">
+=======
+<testsuite tests="3" failures="0" name="com.ravi.cal.RaviCalculator.CalculatorTest" time="0.016" errors="0" skipped="0">
+>>>>>>> Stashed changes
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
@@ -60,7 +64,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
+<<<<<<< Updated upstream
   <testcase classname="com.ravi.cal.RaviCalculator.CalculatorTest" name="twoAndThreeIsFive" time="0.015"/>
+=======
+  <testcase classname="com.ravi.cal.RaviCalculator.CalculatorTest" name="twoAndThreeIsFive" time="0.016"/>
+>>>>>>> Stashed changes
   <testcase classname="com.ravi.cal.RaviCalculator.CalculatorTest" name="threeXThreeIsNine" time="0"/>
   <testcase classname="com.ravi.cal.RaviCalculator.CalculatorTest" name="threeMinusTwoIsOne" time="0"/>
 </testsuite>
