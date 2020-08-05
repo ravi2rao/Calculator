@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.ravi.cal.RaviCalculator.CalculatorTest
--------------------------------------------------------------------------------
-<<<<<<< Updated upstream
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.107 sec
-=======
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.109 sec
->>>>>>> Stashed changes
